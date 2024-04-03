@@ -1,1 +1,7 @@
 This folder contains files used for assignment 10
+
+settings_Rhine-30min_Tutorial-10.ini was used to change sensitivity factor for Precipitation and Average air temperature one at a time.
+
+settings_Rhine-30min_Tutorial-10melt.ini was used to change the value for TempMelt
+
+settings_Rhine-30min_Tutorial-10snow.ini was used to change the value for TempSnow
